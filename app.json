@@ -2,7 +2,7 @@
   "name": "Yeagerist Music Streamer BotV3",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/ImJanindu/GroupMusicBot",
+  "repository": "https://github.com/Yeagerist-Music-Streamer-Bot-V3/Yeagerist-Music-Streamer-BotV3",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
