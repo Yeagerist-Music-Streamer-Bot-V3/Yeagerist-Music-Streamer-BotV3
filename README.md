@@ -1,9 +1,9 @@
 
-<h1 align="centre">Yeagerist Music Streamer BotV3 🎵</h1>
+<h1 align="centre">Disney team 2I music bot🎵</h1>
 
 ### A bot that can play music on telegram group's voice call
 
-# Available on telegram as @YeageristMusic_bot
+# Available on telegram as @disneyteam2imusicbot
 
 <p align="center">
   <img src="https://telegra.ph/file/07e17176fcdb30f9b4104.jpg">
